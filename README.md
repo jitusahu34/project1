@@ -1,4 +1,4 @@
 # project1
 This is my first Git Repository.
 <br>
-Author- Jitu Sahu
+Author- Jitu Sahu (jituu)
